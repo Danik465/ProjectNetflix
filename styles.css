@@ -83,8 +83,9 @@ body{
     height: 100%;
     left: 150px;
     top: 93px;
-    padding-left: 0 30px;
+    padding: 0 30px;
     min-width: 0;
+    
 }
 .search-btn{
     height: 100%;
@@ -114,6 +115,8 @@ body{
 
     }
 
-    .search-input{}
+    .search-input{
+        padding: 0 15px;
+    }
 }
 

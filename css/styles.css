@@ -80,6 +80,7 @@ body{
     height: 100%;
     padding: 0 30px;
     min-width: 0;
+    outline: none;
     
 }
 .search-btn{

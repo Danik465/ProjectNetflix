@@ -270,7 +270,13 @@ body{
     
     .content-main__cards{
         grid-template-columns: repeat(1,1fr);
-    
+        text-align: center;
+    }
+    .search-btn{
+        padding-right: 0 14px;
+    }
+    .search-btn span{
+        display: none;
     }
     
 }
